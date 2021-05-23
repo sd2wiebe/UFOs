@@ -36,7 +36,7 @@ Ex:
 ### State
 
 To use the state field, simply input a two letter state code, ex: ak is Alaska.
-(Note: this field is case senstive and state data was entered in lower-case)
+<br>(Note: this field is case senstive and state data was entered in lower-case)</br>
 <p align="center"
 
 ![alttext](https://github.com/sd2wiebe/UFOs/blob/main/state.png)
